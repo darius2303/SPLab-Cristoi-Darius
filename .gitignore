@@ -1,0 +1,4 @@
+# IntelliJ & Java project ignores
+/out/
+/.idea/
+/*.iml
